@@ -23,7 +23,40 @@ Collection of Nerd Stickers pointing to other repositories, self made or redesig
 ## [teubi @DasTeutelbier](https://twitter.com/DasTeutelbier)
  - Fake Sockets Europe - See /Ressources/@DasTeutelbier/FakeSockets
 
+## [Piratenpartei DE](https://wiki.piratenpartei.de)
+ - Aus hygienischen Gründen wir diese Toilette videoüberwacht - https://wiki.piratenpartei.de/Datei:Teaser-Aufkleber.jpg
+
+## [Stohl.de](https://i1.wp.com/stohl.de/wordpress/wp-content/2014/05/NSA_sticker.jpg)
+ - NSA monitored device - https://i1.wp.com/stohl.de/wordpress/wp-content/2014/05/NSA_sticker.jpg
+
+## [alexAubin](https://github.com/alexAubin/stickers)
+TBD
+
 # Stickers do be re-designed (from human-memory)
  - Nicht bekleben
  - Kein Urinal
- - fake power sockets
+ - Nein. Einfach Nein. (See /Ressources/Redesign/)
+ - Reclaim your privacy (See /Ressources/Redesign/)
+ - ist das system relevant (See /Ressources/Redesign)
+ - telnet. klartext reden
+ - we like porn
+ - we make porn
+ - we fake porn
+ - nyan cat
+ - mögliches austreten von rauch aus dem gerät ist normal und unbedenklich (See /Ressources/Redesign)
+ - all computers are broken (See /Ressources/Redesign)
+ - Privacy by Default (See /Ressources/Redesign)
+ - caution- legacy ip only (See /Ressources/Redesign)
+ - Kritische Infrastruktur - bitte nicht hacken
+
+
+
+
+
+ - mundart?
+
+
+# Some other sources?
+ - https://wiki.piratenpartei.de/Kategorie:Aufkleber 
+ - https://www.hackerstickers.com/category/stickers
+ -
