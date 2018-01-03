@@ -91,6 +91,14 @@ yuno host - https://github.com/alexAubin/stickers/blob/master/yunohost.png
  - 127.0.0.1 - https://ih0.redbubble.net/image.401843299.0331/flat,800x800,075,f.u1.jpg
  - computer says neeeeeeeeeeeeeein - https://ih1.redbubble.net/image.36642905.8237/flat,800x800,075,f.u2.jpg
  - lockpicking https://ih0.redbubble.net/image.8507424.4166/flat,800x800,075,f.jpg
+ - 127.0.0.1 sweet 127.0.0.1 - https://ih1.redbubble.net/image.346269616.1012/flat,800x800,075,f.u1.jpg
+ - take the red pill - https://ih1.redbubble.net/image.346446022.6301/flat,800x800,075,f.u1.jpg
+ - take a look behind the curtain - https://ih1.redbubble.net/image.246010779.4755/flat,800x800,075,f.jpg
+ - there is no spoon - https://ih1.redbubble.net/image.79343980.9278/flat,800x800,075,f.u2.jpg
+ - the white rabbit - https://ih0.redbubble.net/image.120443955.0528/flat,800x800,075,f.u3.jpg
+ - neo matrix style - https://ih1.redbubble.net/image.355737869.1637/flat,800x800,075,f.u1.jpg
+ - club matrix - https://ih1.redbubble.net/image.62762704.8821/flat,800x800,075,f.u12.jpg
+ - agent smith - https://ih1.redbubble.net/image.87886036.3336/flat,800x800,075,f.jpg
  - 
 
 
@@ -118,7 +126,7 @@ yuno host - https://github.com/alexAubin/stickers/blob/master/yunohost.png
  - Privacy by Default (See /Ressources/Redesign)
  - caution- legacy ip only (See /Ressources/Redesign)
  - Kritische Infrastruktur - bitte nicht hacken
- - dicht ins dunkle
+ - dicht ins dunkl (kifft da jemand) (trinkt da jemand)
  - niveau ist keine creme
  - stil ist nicht das ende vom besen
 
@@ -135,3 +143,4 @@ yuno host - https://github.com/alexAubin/stickers/blob/master/yunohost.png
  - https://www.redbubble.com/de/shop/hacker+stickers
  - https://github.com/lecanhson/sticker
  - https://github.com/yongjhih/sticker (debian sticker)
+ - https://www.teepublic.com/sticker/472309-matrix
