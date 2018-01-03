@@ -48,7 +48,9 @@ TBD
  - Privacy by Default (See /Ressources/Redesign)
  - caution- legacy ip only (See /Ressources/Redesign)
  - Kritische Infrastruktur - bitte nicht hacken
-
+ - dicht ins dunkle
+ - niveau ist keine creme
+ - stil ist nicht das ende vom besen
 
 
 
@@ -59,4 +61,6 @@ TBD
 # Some other sources?
  - https://wiki.piratenpartei.de/Kategorie:Aufkleber 
  - https://www.hackerstickers.com/category/stickers
- -
+ - https://www.redbubble.com/de/shop/stickers?ref=global-nav-top
+ - https://github.com/lecanhson/sticker
+ - https://github.com/yongjhih/sticker (debian sticker)
