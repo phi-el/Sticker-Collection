@@ -104,6 +104,7 @@ Collection of Nerd Stickers pointing to other repositories, self made or redesig
 
 ## 34c3
  - isswat ruhat tuwat wiederholl dat - https://pbs.twimg.com/media/DRmXapAWAAAnDe8.png:large
+ - bitte nicht hacken - https://kritische.verwirrung.institute/
 
 ## Others
  - WC unbenutzbar - http://jpoetry.jjim.de/wp-content/uploads/wc_unbenutzbar.png
@@ -125,7 +126,6 @@ Collection of Nerd Stickers pointing to other repositories, self made or redesig
  - all computers are broken (See /Ressources/Redesign)
  - Privacy by Default (See /Ressources/Redesign)
  - caution- legacy ip only (See /Ressources/Redesign)
- - Kritische Infrastruktur - bitte nicht hacken
  - dicht ins dunkl (kifft da jemand) (trinkt da jemand)
  - niveau ist keine creme
  - stil ist nicht das ende vom besen
