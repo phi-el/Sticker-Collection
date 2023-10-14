@@ -1,6 +1,10 @@
 # Sticker-Collection
 Collection of Nerd Stickers pointing to other repositories, self made or redesigned ones
 
+## Contributers
+ - https://github.com/JC5
+ - https://github.com/CoretechR
+
 # Stickers from other people
 ## [SFTtech](https://github.com/SFTtech/sticker)
  - system ist sicher - https://github.com/SFTtech/sticker/blob/master/sicher/sicher.pdf
