@@ -113,7 +113,7 @@ Collection of Nerd Stickers pointing to other repositories, self made or redesig
 ## Others
  - WC unbenutzbar - http://jpoetry.jjim.de/wp-content/uploads/wc_unbenutzbar.png
  - Tür unbenutzbar - https://i.ytimg.com/vi/0ELwpbcj0WI/maxresdefault.jpg
-
+ - Denkmalgeschützte IT-Infrastruktur - https://fnordon.de/@dentaku/112526215082529147 original https://lemmy.world/post/15495180
 
 # Stickers do be re-designed (from human-memory)
  - Nicht bekleben
